@@ -1,0 +1,25 @@
+#ans{
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    height: 70px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+      
+  }
+  img {
+    width: 120px;
+    height: 40px;
+   padding-top: 10px;
+  }
+  #head{
+    padding-top: 50px;
+  }
+  #head input{
+    width: 70%;
+    border-radius: 5px;
+  }
+ #btn1{
+    margin: 10px;
+    margin-left: 725px;
+ }

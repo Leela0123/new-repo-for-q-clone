@@ -1,0 +1,64 @@
+
+header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+   
+     
+   
+}
+img {
+  width: 120px;
+  height: 40px;
+  /*    
+   padding-top: 20px; */
+}
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  /* padding-top: 25px; */
+  border-radius: 10px;
+  height: 40px;
+  width: 100px;
+  font-size: 15px;
+}
+ input {
+ padding: 20px;
+font-size: 20px;
+ 
+}
+#mainPart{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+#userList{
+  height: 250px;
+  width: 700px;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+}
+#quesAns{
+   width: 700px;
+ border:1px solid black;
+  text-align: center;
+  margin-left: 20px;
+  height:800px;
+ color: blue;
+}
+#use{
+  display: flex;
+
+}
+#use>img{
+  width: 30px;
+  height: 30px;
+ border-radius: 50%;
+ padding: 10px;
+
+}

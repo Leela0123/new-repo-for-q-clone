@@ -1,0 +1,45 @@
+#ans{
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    height: 70px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+      
+  }
+  img {
+    width: 120px;
+    height: 40px;
+   padding-top: 10px;
+  }
+  #box{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+   
+  }
+  #box input{
+    width:500px;
+    height: 200px;
+    border-radius: 5px;
+    margin-top: 25px;
+  }
+ #h{
+    height: 270px;
+    width: 600px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+      border-radius: 5px;
+ }
+ #btn3{
+    margin: 15px;
+   margin-left:1000px;
+ }
+ ::placeholder{
+    font-size: 20px;
+    
+ }
+ 
+ 
+ 
+ 
